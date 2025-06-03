@@ -42,4 +42,4 @@ pip3 install requests
 pip3 install schedule
 pip3 install pyTelegramBotAPI
 
-wget -q https://raw.githubusercontent.com/Sandhj/encrypt-bot/main/encrypt.sh
+wget -q https://raw.githubusercontent.com/Sandhj/encrypt-bot/main/encrypt.py
